@@ -2,7 +2,13 @@ import React from "react";
 
 const CountryDetail = ({selectedCountry, saveNewFavourite}) => {
     
+    // const borders = {selectedCountry.borders}
     
+    // const neighbours = (borders) => {
+    //     borders.map(border, index)
+    //     return (border)
+    // }
+
     return (
 
         <div>

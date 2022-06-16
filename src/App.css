@@ -1,17 +1,14 @@
 .App {
   text-align: center;
+  text-decoration: underline;
+  font-family:url('https://fonts.googleapis.com/css2?family=Heebo:wght@300&family=Koulen&family=Macondo&family=Open+Sans:wght@300&family=Roboto+Condensed:wght@300&display=swap');
+  font-display: bold;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+body{
+  background: url('https://upload.wikimedia.org/wikipedia/commons/f/f7/World_Map_%28political%29.svg') ;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
 
 .App-header {
   background-color: #282c34;
